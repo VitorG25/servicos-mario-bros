@@ -3,18 +3,14 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Mukta', sans-serif;
-
 }
 
 .logo-mario {
     height: 200px;
-
 }
 
 .mario-luigi {
     height: 500px;
-
-
 }
 
 body {
@@ -44,8 +40,6 @@ video {
 
 .box-esquerdo {
     width: 50%;
-
-
 }
 
 
@@ -60,16 +54,12 @@ button {
     text-transform: uppercase;
     font-weight: bold;
     margin-top: 30px;
-
 }
 
 button:hover {
     background-color: #470000;
-    /* Cor de fundo ao passar o mouse */
     color: #fff;
-    /* Cor do texto */
     transform: scale(1.1);
-    /* Aumenta o botão */
     transition: 1s ease-in-out;
 }
 

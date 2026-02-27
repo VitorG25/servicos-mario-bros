@@ -11,5 +11,4 @@ function quandoClicar() {
 function desaparecer() {
     formulario.style.left = "-316px"
     mascara.style.visibility = "hidden"
-
 }
