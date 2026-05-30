@@ -100,6 +100,7 @@ button:hover {
 .header a:hover {
     color: #c51111;
     transition: 0.5s color ease-in-out;
+    transition: 0.5s font-size ease;
     font-size: 26px;
 }
 
