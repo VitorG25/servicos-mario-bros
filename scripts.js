@@ -4,7 +4,7 @@ const mascara = document.querySelector(".mascara-formulario")
 
 function quandoClicar() {
     formulario.style.left = "40%"
-    formulario.style.tranform = "translatex(-40%)"
+    formulario.style.transform = "translatex(-40%)"
     mascara.style.visibility = "visible"
 }
 
